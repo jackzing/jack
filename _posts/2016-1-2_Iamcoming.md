@@ -1,3 +1,8 @@
+---
+layout: post
+title: Learn English
+---
+
 1. Make a note to yourself to start thinking more about what you have than what you want . If you do , your life will start appearing much better than before . For perhaps the first time in your life , you’ll know what it means to  feel satisfied.
 ```
 记住从现在开始，多想想你拥有的，而不是你想要的。如果你这样做，你的生活就会比以前更美好，或许你生平第一次懂得了心满意足的含义。
